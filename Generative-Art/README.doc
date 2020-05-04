@@ -1,1 +1,4 @@
+Using turtles and by importing random, this code pops
+random popcorn shapes into a popcorn bucket/popcorn machine backgound.
 
+Once running, the popcorn will generate until the loops are complete.
