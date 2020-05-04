@@ -3,9 +3,8 @@
 #Kanok Vannavong
 #created February 7, 2020
 
-#this code was originally built to generate random clouds across
-#a sky, but with the randomization of the shapes, this code now pops
-#random popcorn shapes into a popcorn bucket/popcorn machine backgound
+#this code utilizes turtles to pop random popcorn shapes into a popcorn 
+#bucket/popcorn machine backgound
 #============================================================================#
 
 #importing libraries
