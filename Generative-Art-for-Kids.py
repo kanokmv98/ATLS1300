@@ -1,5 +1,5 @@
 #==============================================================================
-#Final - Generative Art Gallery
+#Final - Kode for Kids: Generative Art Gallery
 #Kanok Vannavong, Jasmine Chittarath
 #Created April 17, 2020
 #completed April 27, 2020
