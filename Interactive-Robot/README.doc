@@ -1,1 +1,7 @@
+Using pygame, this script creates two robots that can be controlled by the user through keyboard input.
+
+One robot is controlled using arrow keys, the other using AWDS keys.
+Pressing the ENTER makes the robot change color.
+Pressing the SPACEBAR makes the robot get bigger.
+
 
