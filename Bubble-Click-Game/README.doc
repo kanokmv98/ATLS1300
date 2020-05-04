@@ -1,1 +1,5 @@
-This script
+Using pygame, this script will create a bubbles that randomly bumble about the window.
+One the script is running, users can click and drag bubbles to the goal box to remove them from the display. Remove all
+of the bubbles to win the game!
+
+The amount of bubbles remaining will display in the kernal so you can keep track of your progress.
