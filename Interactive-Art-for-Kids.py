@@ -22,63 +22,6 @@
 #Hit the spacebar to reset your window before selecting a new shape.
 
 #==============================================================================
- # MILESTONE DESCRIPTION & ORIGINAL PSUEDOCODE
-
-#originally, this script was intended to display 12-15 generative art pieces in total, informing viewers about the affects of drug use and visualizing that through generative art
-# we changed this to our current script to cater to a specific audience of children 
-# after hearing that many parents were struggling to teach their children from home during the pandemic
- # we were inspired to make an educational program for children instead
-
-#--------old pseudocode--------------------------
-
-#choose a message we want to inform users about (drug use and varying effect on the brain)
-#how can we visualize it with generative art? (make animations miror brain activity - faster/slower depending on drug)
-
-#import libraries
-#add sound here (if any)
-#define variables
-
-#-----define functions here!-----
-
-#function/piece number 1(for example) drawCircle() or artPiece1():
-  #any drawing commands
-  #maybe a line to clear screen before another function is called
-
-#artPiece2():
-#artPiece3():
-#etc, etc. 
-
-#if we do a 3x3 grid, maybe set the drawing limits withing a specific x,y coordinate area for each piece?
-
-#-----game loop-----
-#call each art piece and maybe put them in loops or something to determine how long each one runs for before clearing the screen?
-
-#to do/figure out
-# show more than one piece at a time--set boundaries for each art piece function?
-
-#==============================================================================
-
-#UPDATED PSUEDOCODE:
-#choose a message we want to inform users about (teach kids colors and shapes)
-
-#import libraries
-#add sound here (if any)
-#define variables
-
-#-----define functions here!-----
-
-#function/piece number 1(for example) drawCircle() or artPiece1():
-  #any drawing commands
-  #maybe a line to clear screen before another function is called
-
-#artPiece2():
-#artPiece3():
-#etc, etc. 
-
-#-----game loop-----
-#call each art piece by keyboard press
-
-#==============================================================================
 
 #----------------IMPORT LIBRARIES-----------------------------------
 from random import *
